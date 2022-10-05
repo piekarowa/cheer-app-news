@@ -10,4 +10,3 @@ private String headline;
 private String subject;
 
 }
-v
